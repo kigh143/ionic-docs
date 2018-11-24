@@ -29,7 +29,7 @@ In many cases, using the Ionic CLI to generate a new object and then copying the
 
 One of the major changes between an Ionic 3 app and an Ionic 4 app is the overall project layout and structure. In v3, Ionic apps had a custom convention for how an app should be setup and what that folder structure should look like. In v4, this has been changed to follow the recommended setup of each supported framework.
 
-For example, if an app is using Angular, that project structure will be exactly what an Angular CLI app would be. This change, while not too difficult to accommodate, helps to keep common patterns and documentation consistent.
+For example, if an app is using Angular, that project structure will be exactly what an Angular CLI app would be. This change, while not be too difficult to accommodate, helps to keep common patterns and documentation consistent.
 
 ![A v4 project on the left and a v3 project on the right](/docs/assets/img/guides/migration/v4-v3-project-setup.png)
 
